@@ -99,6 +99,15 @@ nos debe aparecer la version **8**
 <img width="100%" src="http://drive.google.com/uc?export=view&id=1vQX-kZloqpr4PmwvgwW2s9ahbidZQhcU">
 </div>
 
+A continuación cargamos las variables de entornos con 
+```
+source /etc/environment
+```
+
+<div align="center">
+<img width="100%" src="http://drive.google.com/uc?export=view&id=1miuuIdv9LHyedOwPwM0-Mntz1AQ3V3-w">
+</div>
+
 Y por ultimo comprobamos si la variable está correctamente definida con
 ```
 echo $JAVA_HOME
