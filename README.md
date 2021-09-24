@@ -99,6 +99,14 @@ nos debe aparecer la version **8**
 <img width="100%" src="http://drive.google.com/uc?export=view&id=1vQX-kZloqpr4PmwvgwW2s9ahbidZQhcU">
 </div>
 
+Y por ultimo comprobamos si la variable está correctamente definida con
+```
+echo $JAVA_HOME
+```
+<div align="center">
+<img width="100%" src="http://drive.google.com/uc?export=view&id=12FDHecSQCdnanFGz4mGbl-VLSJ8fvHTS">
+</div>
+
 ## Conclusión
 
 Con estos pasos, podemos instalar el jdk en nuestro sistema operativo, para poder desarrollar con java.
